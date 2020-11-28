@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37366e0e-3bee-4848-8256-6ec1d0852b45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ks35KRex3iHVZzRElxJBI4cLfA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark-core/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wanxx.spark.core.wc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\1\spark-project\spark-core\src\main\resources" />
+      <recent name="D:\1\spark-project\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Spark03_WordCount">
+    <configuration name="Spark01_WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanxx.spark.core.wc.Spark01_WordCount" />
+      <module name="spark-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanxx.spark.core.wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spark02_WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanxx.spark.core.wc.Spark02_WordCount" />
+      <module name="spark-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanxx.spark.core.wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spark03_WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanxx.spark.core.wc.Spark03_WordCount" />
+      <module name="spark-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanxx.spark.core.wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wanxx.spark.core.test" />
+      <module name="spark-core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Spark03_WordCount" />
+        <item itemvalue="Application.Spark02_WordCount" />
+        <item itemvalue="Application.Spark01_WordCount" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37366e0e-3bee-4848-8256-6ec1d0852b45" name="Default Changelist" comment="" />
+      <created>1606475286990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606475286990</updated>
+      <workItem from="1606475289039" duration="5594000" />
+      <workItem from="1606559661704" duration="634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1606488632546">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1606488632546" />
+    <state x="643" y="0" key="#Scala" timestamp="1606477401786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="643" y="0" key="#Scala/0.0.1280.680@0.0.1280.680" timestamp="1606477401786" />
+    <state x="707" y="140" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606476827289">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="707" y="140" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1606476827289" />
+    <state x="373" y="255" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1606475565228">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="373" y="255" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1280.680@0.0.1280.680" timestamp="1606475565228" />
+    <state x="372" y="116" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1606475492620">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="372" y="116" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1606475492620" />
+    <state x="251" y="7" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1606476037849">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="251" y="7" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1606476037849" />
+    <state x="411" y="202" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606475493880">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="411" y="202" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1606475493880" />
+    <state x="496" y="238" width="289" height="283" key="Github.ShareDialog" timestamp="1606559982806">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="496" y="238" width="289" height="283" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1606559982806" />
+    <state width="1237" height="177" key="GridCell.Tab.0.bottom" timestamp="1606559428025">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="177" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606559428025" />
+    <state width="1237" height="177" key="GridCell.Tab.0.center" timestamp="1606559428024">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="177" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606559428024" />
+    <state width="1237" height="177" key="GridCell.Tab.0.left" timestamp="1606559428024">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="177" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606559428024" />
+    <state width="1237" height="177" key="GridCell.Tab.0.right" timestamp="1606559428025">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="177" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606559428025" />
+    <state x="269" y="0" key="SettingsEditor" timestamp="1606560300635">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="269" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1606560300635" />
+    <state x="257" y="1" key="new project wizard" timestamp="1606475414424">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="257" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1606475414424" />
+  </component>
+</project>
